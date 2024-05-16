@@ -18,7 +18,7 @@
 ## 安装
 
 ```bash
-composer require easyswoole/pool
+composer require easy-swoole-php/pool
 ```
 
 ## 基础示例代码
